@@ -1,0 +1,10 @@
+{
+  "description": "Plan personalized trips with curated destinations, packages, and experiences through a premium, user-friendly travel platform designed for seamless adventure planning.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
